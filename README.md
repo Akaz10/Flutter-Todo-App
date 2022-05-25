@@ -28,15 +28,11 @@ Görev Düzenleme  |  Değişiklik Kontrolü | Değişiklik Kontrolü |
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://www.linkpicture.com/q/5_183.png)  |  ![](https://www.linkpicture.com/q/6_518.png)  |  ![](https://www.linkpicture.com/q/7_373.png) 
 
-- ## Görev Ekleme Sayfası:
+- ## Görev Silme İşlemi:
 
-![]()
+![](https://www.linkpicture.com/q/8_7.png)
 
-- ## Görev Ekleme Sayfası:
+Silme işlemini gerçekleştirmek için silmek istediğiniz görevin üstüne basılı tutmanız yeterlidir.
 
-![]()
 
-- ## Görev Ekleme Sayfası:
-
-![]()
 
