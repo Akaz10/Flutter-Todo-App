@@ -1,17 +1,39 @@
 # todoapp
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Bu proje flutter ve firebase kullanılarak geliştirilmiştir.
 
-A few resources to get you started if this is your first Flutter project:
+- Yapılacaklar görevler
+- Görev tamamlama ve tamamlanan görevlerin görüntülenmesi
+- Görev düzenleme ve silme
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Ekran Görüntüleri:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Todo-App
+- ## Anasayfa:
+
+Yapılacaklak Görevler  |  Tamamlanmış Görevler | 
+:-------------------------:|:-------------------------:
+![](https://www.linkpicture.com/q/1_96.png)  |  ![](https://www.linkpicture.com/q/2_89.png)  
+
+- ## Görev Ekleme Sayfası:
+
+:-------------------------:|:-------------------------:
+![](https://www.linkpicture.com/q/3_48.png)  |  ![](https://www.linkpicture.com/q/4_3.png)  
+
+- ## Görev Ekleme Sayfası:
+
+![]()
+
+- ## Görev Ekleme Sayfası:
+
+![]()
+
+- ## Görev Ekleme Sayfası:
+
+![]()
+
+- ## Görev Ekleme Sayfası:
+
+![]()
+
