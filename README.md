@@ -1,7 +1,5 @@
 # todoapp
 
-## Getting Started
-
 Bu proje flutter ve firebase kullanılarak geliştirilmiştir.
 
 - Yapılacaklar görevler
