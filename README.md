@@ -22,9 +22,11 @@ Görev Ekleme  |  Validation |
 :-------------------------:|:-------------------------:
 ![](https://www.linkpicture.com/q/3_48.png)  |  ![](https://www.linkpicture.com/q/4_3.png)  
 
-- ## Görev Ekleme Sayfası:
+- ## Görev Düzenleme Sayfası:
 
-![]()
+Görev Düzenleme  |  Değişiklik Kontrolü | Değişiklik Kontrolü |
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://www.linkpicture.com/q/5_183.png)  |  ![](https://www.linkpicture.com/q/6_518.png)  |  ![](https://www.linkpicture.com/q/7_373.png) 
 
 - ## Görev Ekleme Sayfası:
 
